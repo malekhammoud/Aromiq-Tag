@@ -1,4 +1,4 @@
-## 🗓️ July 7, 2025 — Component Research & Selection
+## 🗓️ July 10, 2025 — Component Research & Selection
 
 Today, I finalized all the main components for the Aromiq Tag.  
 I decided to skip breadboard prototyping and go straight to PCB design to save time.  
